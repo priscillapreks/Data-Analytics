@@ -1,22 +1,25 @@
-# Data Analysis    
+# ENEM     
 
-Estudos de análise e visualização de dados com Python    
-</br>
+Todos os anos a redação do Exame Nacional do Ensino Médio (Enem) dá o que falar, tanto antes quanto depois da prova. Para os que vão realizar a prova, as especulações sobre o possível tema e as dicas de como escrever um bom texto são os assuntos mais frequentes. Depois do Enem, a discussão gira em torno da relevância do tema da redação e nível de dificuldade para os participantes.    
 
-<br>
+Em 2019, o tema da redação foi: **"Democratização do acesso ao cinema no Brasil"**    
 
-* **Análise das Notas da Redação do Enem 2019**    
-Análise das notas do Enem e insights sobre a Redação >> [Notebook](https://github.com/priscillapreks/data-analysis/blob/master/Enem_2019_ImersaoDados.ipynb)    
-
-</br>
-    
-* **StackOverflow Insights**     
-Insights sobre a carreira de tecnologia. >> [Notebook](https://github.com/priscillapreks/data-analysis/blob/master/Stack_Overflow_Insights.ipynb)    
+Vamos analisar como os estudantes se saíram?</br>
 
 <br>
 
-* **Análise de Tweets**    
-Análise de sentimentos de tweets relacionados ao uso de máscara (início da pandemia) >> [Notebook](https://github.com/priscillapreks/data-analysis/blob/master/analise_twitter_m%C3%A1scara.ipynb)     
+## **Notas da Redação do Enem 2019**     
 
-<img src="https://github.com/priscillapreks/data-analysis/blob/master/analise_twitter/tweets_wordcloud_mascara.png" width="650"/>
+Os objetivos deste projeto foram:
 
+* Analisar as notas da redação em geral
+* Identificar fatores que influenciam no desempenho dos estudantes na redação
+* Identificar em quais competências avaliadas os estudantes se saem melhor ou pior 
+* Fazer um comparativo de quantos estudantes atingiram nota máxima e quantos zeraram na redação
+
+
+</br>
+
+---
+
+Fonte dos dados: INEP 
